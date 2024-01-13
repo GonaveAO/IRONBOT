@@ -1,0 +1,46 @@
+{
+  "token": "XXXXXXXXXXXXXXXXXX",
+  "prefix": "!",
+  "2step": false,
+  "discordServerId": "478172230501793797",
+  "db": {
+    "host": "localhost",
+    "user": "XXXXXXXXXXXXX",
+    "password": "XXXXXXXXXXXXXXX",
+    "database": "ironhand",
+    "charset": "utf8mb4"
+  },
+  "commandModules": [
+    "registration",
+    "tools"
+  ],
+  "allowedGuilds": [
+    {
+      "name": "Iron Hand",
+      "id": "-XLLAI9hTP6wvJM8kIVY5g"
+    },
+    {
+      "name": "Iron Beasts",
+      "id": "NMj2erJUTZS9P8Orhhz-uA"
+    },
+    {
+      "name": "Iron_Hand",
+      "id": "3FLwBpDURTeHeMpaqqsN2Q"
+    }
+  ],
+  "channels": 
+    {
+      "registration": "885099666113462332",
+      "blacklistCheck": "880177095798579291",
+      "rules": "880178880273604688",
+      "alerts": "885099633976688650"
+    }
+  ,
+  "roles": 
+    {
+      "registered": "Iron Member",
+      "officer": "Iron Council",
+      "tempAccess": "Silver Member"
+    }
+  
+}

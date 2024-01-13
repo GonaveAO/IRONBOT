@@ -1,0 +1,9 @@
+{
+  "test": "Welcome to %DISCORDNAME%",
+  "test2": "asd ? 123 ?",
+  "test3": [
+    {
+      "test": 1
+    }
+  ]
+}

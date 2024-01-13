@@ -1,0 +1,17 @@
+{
+  "name": "iron-bot",
+  "version": "0.0.0",
+  "description": "IronBOT",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "axios": "^0.21.3",
+    "bluebird": "^3.7.2",
+    "crypto-js": "^4.1.1",
+    "discord.js": "^13.1.0",
+    "moment": "^2.29.1",
+    "mysql2": "^2.3.0"
+  }
+}
